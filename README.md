@@ -42,7 +42,7 @@ Runtime, Audio, Kernel, Numeric, Geometry, Array, Grid, String, Layout, Easings,
 
 ## Examples
 
-There are premade examples that can be used 
+There are premade examples that can be found as well. 
 
 1. `bouncing_dvd_logo.xml` which is Bouncing DVD reimplemented in DragonBlocks.
 2. `dragonblock-invader.xml` which is minigame that has invaders style and was made by [Akzidenz](https://akzidenz.itch.io).
@@ -67,7 +67,7 @@ OK the way i made this is really weird, I removed all everything Node.js and Goo
 
 ## Discord
 
-You can join the Discord channel from [DragonRuby Discord Server](https://discord.dragonruby.org), Then in `COMMUNITY` section the channel named `oss-blocky` XD
+You can join the Discord channel from [DragonRuby Discord Server](https://discord.dragonruby.org), Then in `COMMUNITY` section the channel named `oss-blocky`
 
 ## License
 
