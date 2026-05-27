@@ -1,5 +1,7 @@
 # DragonBlocks
 
+> Update (May 2026): no longer maintaining this because lost access to my DragonRuby Pro subscription in the days of deleting my past email accounts around August-September in 2024, Thanks to the DragonRuby community for their kindness and patience with me in the old days.
+
 [Blockly](https://developers.google.com/blockly)-based environment made for [DragonRuby Game Toolkit](https://dragonruby.org/toolkit/game), Based on Blockly version `blockly-6.20210701.0` by Google.
 
 <img src="dragonblocks.png">
@@ -37,6 +39,13 @@ Also a file named `template_new.xml` provided as small template that consists of
 You have the standard Blockly blocks in addition to Blocks for following DragonRuby APIs:
 
 Runtime, Audio, Kernel, Numeric, Geometry, Array, Grid, String, Layout, Easings, State, Hash, Outputs, Debug, Keyboard, Mouse, Joystick, Touch, Essentials (Require, Eval, And conversion functions)
+
+## Examples
+
+There are premade examples that can be used 
+
+1. `bouncing_dvd_logo.xml` which is Bouncing DVD reimplemented in DragonBlocks.
+2. `dragonblock-invader.xml` which is minigame that has invaders style and was made by [Akzidenz](https://akzidenz.itch.io).
 
 ## Building
 
